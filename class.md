@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Jeiqual  
+- Certification: Jeiqual Coursera
 
 ## Instructions
 Please replace the placeholders with your details:
